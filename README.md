@@ -14,11 +14,11 @@ The data used for this project was collected from a variety of sources: 1) A spo
 
 The methodologies used included data cleaning, outlier imputation, exploratory data analysis (EDA), and data pooling using the KMean method to create the data classification.
 
-# About:
+## About:
 
 I'm going to group my saved songs into a Spotify playlist. The clusters will be derived due to the KMeans clustering model, which was trained on the Spotify Dataset, which contains approximately 282 songs. Also, all derivative groups will represent a certain mood that I have while listening to my music.
 
-## DATA
+## Data
 
 In order to generate the .csv file, we will go to the page: https://www.chosic.com/spotify-playlist-analyzer/, and enter the link of the playlist that we want to extract from spotify.
 At the end of the site, you can download the playlist in a ".csv" file, which will serve as a dataset.
