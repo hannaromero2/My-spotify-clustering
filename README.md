@@ -1,7 +1,7 @@
 # Clustering my songs on Spotify and my mood prediction
 
 
-Spotify, the world's largest on-demand music service, has a history of pushing technological boundaries and using big data, artificial intelligence and machine learning to drive success. Although its offering is music, Spotify is a data-driven company and uses data in every part of the organization to make decisions. It is proud to offer over 50 million ad-free tracks to its 130 million Spotify Premium subscribers for £9.99 a month, with each stream learning more about its users. The company now has a market capitalization of $35 billion and from 2014 to the end of 2019, Spotify spent hundreds of millions of dollars acquiring data science consulting firms, music intelligence agencies, personalization feature technology and recommendation, and an artificial intelligence to strengthen its data-centric offer. As the service continues to acquire data points, it uses that information to train algorithms and machines to listen to music and extrapolate information that impacts its business and listener experience. 
+Spotify, the world's largest on-demand music service, has a history of pushing technological boundaries and using big data, artificial intelligence and machine learning to drive success. Although its offering is music, Spotify is a data-driven company and uses data in every part of the organization to make decisions. It is proud to offer over 50 million ad-free tracks to its 130 million Spotify Premium subscribers for $5.99 usd a month, with each stream learning more about its users. The company now has a market capitalization of $35 billion and from 2014 to the end of 2019, Spotify spent hundreds of millions of dollars acquiring data science consulting firms, music intelligence agencies, personalization feature technology and recommendation, and an artificial intelligence to strengthen its data-centric offer. As the service continues to acquire data points, it uses that information to train algorithms and machines to listen to music and extrapolate information that impacts its business and listener experience. 
 
 The project uses PCA to reduce the dimensions of the list of audio functions before running a K-Means model to classify and visualize my musical tastes and the mood that prevails in my playlist.
 
@@ -14,7 +14,7 @@ The data used for this project was collected from a variety of sources: 1) A spo
 
 The methodologies used included data cleaning, outlier imputation, exploratory data analysis (EDA), and data pooling using the KMean method to create the data classification.
 
-## About:
+## About
 
 I'm going to group my saved songs into a Spotify playlist. The clusters will be derived due to the KMeans clustering model, which was trained on the Spotify Dataset, which contains approximately 282 songs. Also, all derivative groups will represent a certain mood that I have while listening to my music.
 
